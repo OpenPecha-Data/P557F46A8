@@ -1,0 +1,89 @@
+id: P557F46A8
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 1,03: Pravāraṇāvastu'
+  language: bo
+  volumes:
+    05aa36fb48bd423a9e9d00298342766e:
+      title: Antaroddāna 3. The right moment for Pravāraṇāsthāpanā
+      base_file: Antaroddāna 3. The right moment for Pravāraṇāsthāpanā.txt
+      work_id: WFF595CDD
+    1f4361c87a0e46fea3990fc1cd63e785:
+      title: Antaroddāna 4
+      base_file: Antaroddāna 4.txt
+      work_id: W4A4724BD
+    6ae7634efa6048258eacd2c41a8b46c1:
+      title: Canceling the Pravāraṇā because of absence
+      base_file: Canceling the Pravāraṇā because of absence.txt
+      work_id: W33BB3B34
+    b2838cd7c4fd4cd7bccc38f28d317939:
+      title: Conditions for the just accusation (codanā) of a Bhikṣu and making the
+        reality of the case clear
+      base_file: Conditions for the just accusation (codanā) of a Bhikṣu and making
+        the reality of the case clear.txt
+      work_id: WFBABB672
+    984f63c04bce4379a0c6bd2927fbdc8e:
+      title: Course of the Pravāraṇā
+      base_file: Course of the Pravāraṇā.txt
+      work_id: WD7C9A06A
+    6293dec63d2145419001e5ffbbbe5244:
+      title: Four possible states of the matters when disagreement
+      base_file: Four possible states of the matters when disagreement.txt
+      work_id: WE185C08D
+    16732ccd2c7d44d0b47d178a1a3886c3:
+      title: Not performing the Pravāraṇā befor all the recident monks are assembled
+      base_file: Not performing the Pravāraṇā befor all the recident monks are assembled.txt
+      work_id: WEE481452
+    9ba1ebcef39b4617bba9cc1a9213e5a9:
+      title: Piṇḍoddāna 1
+      base_file: Piṇḍoddāna 1.txt
+      work_id: W47F7BAEB
+    11f063da0a33476aaa909801da2470e8:
+      title: Pravāraṇā of a sick monk
+      base_file: Pravāraṇā of a sick monk.txt
+      work_id: W06689F69
+    aeb4979dd25044e181bf8b00896e79f9:
+      title: Pravāraṇā only in the complete and pure congreagtion
+      base_file: Pravāraṇā only in the complete and pure congreagtion.txt
+      work_id: W6EE1E3EE
+    120afd260b5f4441b34394a9a600c6b1:
+      title: The cancelling of the Pravāraṇā because of disagreement
+      base_file: The cancelling of the Pravāraṇā because of disagreement.txt
+      work_id: W555C5714
+    8b25cb8b56ca421b941a39de95eee01e:
+      title: The cancelling of the Pravāraṇā because of, and against, a sick monk
+      base_file: The cancelling of the Pravāraṇā because of, and against, a sick monk.txt
+      work_id: W35C6B815
+    28fe3272e8094942b15643631e6fff50:
+      title: The two premisses for Pravāraṇā
+      base_file: The two premisses for Pravāraṇā.txt
+      work_id: W3C8ECC1C
+    80cb55599bcc4954b616bd34780d2efd:
+      title: Three kinds of Pravāraṇā according to the number of the participants
+      base_file: Three kinds of Pravāraṇā according to the number of the participants.txt
+      work_id: W5A52BAE5
+    f9db0b221369493b9510aec543986b5c:
+      title: Uddāna 2. Background for the establishemnet of the Pravāraṇākarma
+      base_file: Uddāna 2. Background for the establishemnet of the Pravāraṇākarma.txt
+      work_id: W9CF57746
+    dfadb83e41a94e829d404f3fa7bb7bdf:
+      title: Uddāna 5
+      base_file: Uddāna 5.txt
+      work_id: WF08DEC4F
+    1d1c1627ce3f4ba085604e0d6e69efa4:
+      title: Uddāna 6
+      base_file: Uddāna 6.txt
+      work_id: W40990E03
+    2cf35e754b2447d7863f490ad3443a75:
+      title: Uddāna 7
+      base_file: Uddāna 7.txt
+      work_id: W5BFDBB0E
+    92e7e31961054cb0a7446e5923db33fb:
+      title: Various forms of the ceremony in accordance with the numbers of repetition
+        in the recitation of the Pravāraṇā fromula
+      base_file: Various forms of the ceremony in accordance with the numbers of repetition
+        in the recitation of the Pravāraṇā fromula.txt
+      work_id: W084BA7D7
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:14:18.966465'
+last_modified_at: '2022-03-01T22:14:18.966478'
